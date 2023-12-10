@@ -2,7 +2,7 @@ Trabalho Prático 2 da Disciplina Algoritmos 2 – Soluções para problemas dif
 
 Esse trabalho apresenta três algoritos diferentes para o Problema do Caixeiro Viajante, são elas: Branch-and-Bound, Twice-Around-the-Tree e Algoritmo de Christofides. Os arquivos neste repositório são os seguintes:
 - tp2.pdf: Descrição do trabalho
-- TP2_2021031459.pdf: Relatório
+- Relatorio-TP2_2021031459.pdf: Relatório do trabalho
 - bnb.py: Implementação do algoritmo Branch-and-Bound
 - tatt.py: Implementação do algoritmo Twice-Around-the-Tree
 - christofides.py: Implementação do algoritmo de Christofides
