@@ -9,3 +9,5 @@ Esse trabalho apresenta três algoritos diferentes para o Problema do Caixeiro V
 - resultsv1.xlxs: Planilha com os os resultados coletados nos experimentos do Branch-and-Bound
 - resultsv2.xlxs: Planilha com os os resultados coletados nos experimentos do Twice-Around-the-Tree
 - resultsv3.xlxs: Planilha com os os resultados coletados nos experimentos do Christofides
+- tp2_datasets.txt: Informações sobre os datasets, como nome do dataset, quantidade de nós e limiar ótimo
+- datasets.zip: Datasets utilizados para teste
